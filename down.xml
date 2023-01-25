@@ -1,0 +1,17 @@
+<nodeData xmlns="http://digitalarchive.familysearch.org/v1" apid="TH-266-11767-14478-72" childCount="0" lastMod="1660170500258" name="004037182_00483" streamCount="6">
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72" rel="node" type="application/json"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/parents" rel="parents" type="application/json"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/TH-266-11767-14478-72/image.xml" rel="deepzoom" type="application/xml"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/permission" rel="permission" type="application/json"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/name" rel="name" type="application/json"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/dist.jpg" rel="stream-image-dist" type="image/jpeg"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/thumb_64.jpg" rel="stream-image-thumb_64" type="image/jpeg"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/thumb_16.jpg" rel="stream-image-thumb_16" type="image/jpeg"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/thumb_32.jpg" rel="stream-image-thumb_32" type="image/jpeg"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/thumb_p200.jpg" rel="stream-image-thumb_p200" type="image/jpeg"/>
+<link href="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/TH-266-11767-14478-72/thumb_128.jpg" rel="stream-image-thumb_128" type="image/jpeg"/>
+<templates name="das-image" template="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/{id}/{image}"/>
+<templates name="dz-image" template="https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/{id}/{image}"/>
+<templates name="external-das-image" template="https://sg30p0.familysearch.org/service/records/storage/dascloud/das/v2/{id}/{image}"/>
+<templates name="external-dz-image" template="https://sg30p0.familysearch.org/service/records/storage/deepzoomcloud/dz/v1/{id}/{image}"/>
+</nodeData>
